@@ -5,3 +5,5 @@ spanish
 chinese
 hindi
 klingon
+esperanto
+sign language
