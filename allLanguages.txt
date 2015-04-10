@@ -4,3 +4,4 @@ german
 spanish
 chinese
 hindi
+klingon
