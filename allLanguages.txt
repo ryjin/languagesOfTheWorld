@@ -7,3 +7,6 @@ hindi
 klingon
 esperanto
 sign language
+nepali 
+german
+
